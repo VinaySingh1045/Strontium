@@ -209,6 +209,7 @@ body {
     padding: 0px 8px;
     border-radius: 5px;
     width: 18vw;
+    word-break: break-all;
     /* width: auto; */
 }
 
