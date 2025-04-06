@@ -169,13 +169,14 @@ body {
 
 .playbar {
     position: fixed;
-    bottom: 48px;
+    bottom: 40px;
     filter: invert(1);
     border-radius: 19px;
     background-color: #dad5d5;
     width: 67vw;
     padding: 20px;
     min-height: 40px;
+    word-break: break-all;
     /* margin: 20px; */
 }
 
@@ -331,6 +332,7 @@ body {
     .playbar {
         width: 85%;
         right: 27px;
+        bottom: 5px;
         /* right: 10px; */
         /* width: 88%; */
     }
